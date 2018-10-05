@@ -20,8 +20,8 @@
 5.Pytorch  nn.moudle optimizer 等等  
 
 *assignment3*  
-1.RNN实现  这部分我没做  demo:image-capation
-2.LSTM长短期记忆  这部分我没做  
+1.RNN实现  这部分我没做  demo:image-capation   
+2.LSTM长短期记忆  这部分我没做    
 3.style-transform 用的squeezenet  但是我不是很理解 跳过  
 4.GAN 关键是Loss的计算  deep-convolutional-GAN效果不错  demo:手写数字image生成  
 参考链接:  
